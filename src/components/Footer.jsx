@@ -13,7 +13,7 @@ const Footer = () => {
       <div className="container">
         <div className="footer-content">
           <p className="footer-text">
-            Designed & Built with <span className="heart">❤️</span> by Your Name
+            Designed & Built with <span className="heart">❤️</span> by Harsha Gonela
           </p>
           <p className="footer-copyright">
             © {currentYear} All rights reserved.

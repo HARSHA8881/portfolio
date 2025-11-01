@@ -7,38 +7,38 @@ const Projects = () => {
       id: 1,
       title: 'LangLeap',
       description: 'LangLeap is a modern React-based language learning app that helps users master vocabulary and phrases through interactive quizzes and real-time translations.',
-      technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
-      github: 'https://github.com',
-      live: 'https://example.com',
+      technologies: ['React', 'HTML', 'CSS', 'JavaScript'],
+      github: 'https://github.com/HARSHA8881/Langleap',
+      live: 'https://langleap.vercel.app/',
       featured: true
     },
     {
       id: 2,
-      title: 'Task Management App',
-      description: 'A collaborative task management application with real-time updates and team collaboration features.',
-      technologies: ['Vue.js', 'Firebase', 'TypeScript'],
-      github: 'https://github.com',
-      live: 'https://example.com',
+      title: 'My To-Do List',
+      description: 'A modern, beautiful to-do list application built with HTML, CSS, and JavaScript.',
+      technologies: ['HTML', 'CSS'],
+      github: 'https://github.com/HARSHA8881/my-todo-list',
+      live: 'https://capstone-project-dusky-kappa.vercel.app/',
       featured: true
     },
-    {
-      id: 3,
-      title: 'Weather Dashboard',
-      description: 'A beautiful weather dashboard showing forecasts, maps, and weather analytics with interactive charts.',
-      technologies: ['React', 'Chart.js', 'API Integration'],
-      github: 'https://github.com',
-      live: 'https://example.com',
-      featured: false
-    },
-    {
-      id: 4,
-      title: 'Social Media Analytics',
-      description: 'Analytics platform for tracking social media metrics with detailed insights and reporting.',
-      technologies: ['Next.js', 'Python', 'PostgreSQL'],
-      github: 'https://github.com',
-      live: 'https://example.com',
-      featured: false
-    }
+    // {
+    //   id: 3,
+    //   title: 'Weather Dashboard',
+    //   description: 'A beautiful weather dashboard showing forecasts, maps, and weather analytics with interactive charts.',
+    //   technologies: ['React', 'Chart.js', 'API Integration'],
+    //   github: 'https://github.com',
+    //   live: 'https://example.com',
+    //   featured: false
+    // },
+    // {
+    //   id: 4,
+    //   title: 'Social Media Analytics',
+    //   description: 'Analytics platform for tracking social media metrics with detailed insights and reporting.',
+    //   technologies: ['Next.js', 'Python', 'PostgreSQL'],
+    //   github: 'https://github.com',
+    //   live: 'https://example.com',
+    //   featured: false
+    // }
   ]
 
   return (
