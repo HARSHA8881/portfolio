@@ -23,11 +23,10 @@ const Hero = () => {
               <span className="name-highlight typing-effect">Harsha Gonela</span>
             </h1>
             <h2 className="hero-title">
-              <span className="gradient-text">I build things for the web.</span>
+              <span className="gradient-text">I solve problems and build experiences for the web.</span>
             </h2>
             <p className="hero-description">
-              I'm a software developer specializing in building exceptional digital experiences. 
-              Currently focused on creating beautiful, functional web applications.
+            I'm a frontend developer with a strong grip on Data Structures and Algorithms, focused on creating fast, intuitive, and visually engaging web applications. Currently pushing my skills to craft seamless digital experiences that blend logic and design.
             </p>
             <div className="hero-buttons">
               <button 

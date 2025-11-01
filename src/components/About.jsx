@@ -12,13 +12,10 @@ const About = () => {
         <div className="about-content">
           <div className="about-text">
             <p>
-              Hello! I'm a passionate developer who loves creating beautiful and functional web applications. 
-              I enjoy turning complex problems into simple, elegant solutions.
+            Hello! I’m a passionate frontend developer who loves crafting interactive and visually appealing web applications. With a strong foundation in Data Structures and Algorithms, I approach development with both creativity and problem-solving precision.
             </p>
             <p>
-              My goal is to build applications that provide exceptional user experiences while maintaining 
-              clean, efficient code. I'm constantly learning and exploring new technologies to stay at the 
-              forefront of web development.
+            I enjoy transforming complex challenges into clean, efficient, and user-friendly solutions. My goal is to build web experiences that not only look great but perform flawlessly. I’m always exploring new technologies and design patterns to stay ahead in the ever-evolving world of web development.
             </p>
             <p>Here are a few technologies I've been working with recently:</p>
             <ul className="tech-list">

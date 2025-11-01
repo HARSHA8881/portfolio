@@ -5,8 +5,8 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: 'E-Commerce Platform',
-      description: 'A full-stack e-commerce solution with payment integration, user authentication, and admin dashboard.',
+      title: 'LangLeap',
+      description: 'LangLeap is a modern React-based language learning app that helps users master vocabulary and phrases through interactive quizzes and real-time translations.',
       technologies: ['React', 'Node.js', 'MongoDB', 'Stripe'],
       github: 'https://github.com',
       live: 'https://example.com',
