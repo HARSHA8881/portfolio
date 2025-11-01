@@ -33,9 +33,11 @@ const About = () => {
           </div>
           <div className="about-image">
             <div className="image-wrapper">
-              <div className="image-placeholder">
-                <span>Your Photo</span>
-              </div>
+              <img 
+                src="/photo.png" 
+                alt="Harsha Gonela" 
+                className="about-photo"
+              />
             </div>
           </div>
         </div>
