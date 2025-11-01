@@ -1,0 +1,48 @@
+.section-divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 4rem 0;
+  position: relative;
+}
+
+.divider-line {
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(102, 126, 234, 0.5), transparent);
+  max-width: 200px;
+}
+
+.divider-icon {
+  color: #667eea;
+  opacity: 0.6;
+  animation: floatIcon 3s ease-in-out infinite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divider-icon svg {
+  filter: drop-shadow(0 0 8px rgba(102, 126, 234, 0.5));
+}
+
+@keyframes floatIcon {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@media (max-width: 768px) {
+  .section-divider {
+    padding: 2rem 0;
+  }
+  
+  .divider-line {
+    max-width: 100px;
+  }
+}
+
