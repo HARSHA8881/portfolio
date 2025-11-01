@@ -50,9 +50,9 @@ const Hero = () => {
             </div>
           </div>
         </div>
-        <div className="hero-scroll">
+        {/* <div className="hero-scroll">
           <div className="scroll-indicator"></div>
-        </div>
+        </div> */}
       </div>
       <div className="hero-background">
         <div className="gradient-orb orb-1"></div>
