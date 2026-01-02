@@ -21,6 +21,15 @@ const Projects = () => {
       live: 'https://capstone-project-dusky-kappa.vercel.app/',
       featured: true
     },
+    {
+      id:3,
+      title: 'FitTrack',
+      description: 'A modern, full-stack fitness tracking application that helps users monitor their workouts, track progress, and achieve their fitness goals.',
+      technologies: ['React','CSS3', 'Node.js', 'Express.js','Prisma','PostgreSQL'],
+      github: 'https://github.com/HARSHA8881/FitTrack.git',
+      live: 'https://fit-track-swart.vercel.app/',
+      featured: true
+    }
     // {
     //   id: 3,
     //   title: 'Weather Dashboard',
